@@ -1,0 +1,6 @@
+com\ebay\qa\reporting\Loggers.class
+com\ebay\qa\base\BaseClass.class
+com\ebay\qa\commons\CommonFunction.class
+com\ebay\qa\commons\CommonWaits.class
+com\ebay\qa\object\HomePage.class
+com\ebay\qa\utils\Configuration.class
